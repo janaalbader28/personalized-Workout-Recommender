@@ -17,6 +17,22 @@
 - Focuses on building the Gradio interface.
 
 
+# Instructions to Run the Code
+1- Prerequisites: Install the required dependencies:
+- Gradio
+- transformers
+- pandas
+- matplotlib
+2- Running the Application: Execute the Python script. This will automatically open the Gradio interface in your web browser.
+Using the Application: 
+- Describe Your Day: Enter a description of your day into the provided text input field.
+- Select the Time of Day: Choose the time from the available options (e.g., 'morning', 'afternoon', 'evening').
+
+The application will:
+- Classify Your Mood: Analyze your description to determine your mood.
+- Display the Result: Show the mood classification and any related feedback.
+- Generate a Graph: Create and display a graph based on the collected data.
+
 
 # Expected Output
 
