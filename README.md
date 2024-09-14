@@ -20,7 +20,10 @@
 
 # Expected Output
 
-
+<div style="display: flex;">
+    <img src="images/1.png" alt="Image 1" style="width: 45%; margin-right: 10px;">
+    <img src="images/2.png" alt="Image 2" style="width: 45%;">
+</div>
 
 
 
