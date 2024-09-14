@@ -31,3 +31,4 @@
 
 
 # Links
+[Workout Recommender Space](https://huggingface.co/spaces/JanaAlbader/Personalized-Workout-Recommender) 
