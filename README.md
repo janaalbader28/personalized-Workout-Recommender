@@ -23,6 +23,7 @@
 - transformers
 - pandas
 - matplotlib
+  
 2- Running the Application: Execute the Python script. This will automatically open the Gradio interface in your web browser.
 Using the Application: 
 - Describe Your Day: Enter a description of your day into the provided text input field.
