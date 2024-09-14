@@ -7,7 +7,7 @@
 # Files and Their Functions
 
 1- Workout-Recommender-Application.ipynb:
-- Mood Classifier: The black-forest-labs/FLUX.1-dev model is used to identify the user’s mood from their input. Model
+- Mood Classifier: The black-forest-labs/FLUX.1-dev model is used to identify the user’s mood from their input. [Model]([https://pages.github.com/](https://huggingface.co/black-forest-labs/FLUX.1-dev))
 - Gradio Interface: This interface allows users to enter their mood and select the time of day, and then it shows a workout suggestion based on this information.
 
 2- Pipeline-file.ipynb:
@@ -15,3 +15,13 @@
 
 3- Gradio-file.ipynb: 
 - Focuses on building the Gradio interface.
+
+---
+
+# Expected Output
+
+
+
+
+---
+# Links
