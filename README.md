@@ -50,4 +50,3 @@ The application will:
 # Links
 [Workout Recommender Space](https://huggingface.co/spaces/JanaAlbader/Personalized-Workout-Recommender) 
 
-[Video Walkthrough of the Code](https://drive.google.com/file/d/1GjoEqdZ4rY5em6k-aeXGiBQSiALA2oJu/view?usp=sharing) 
